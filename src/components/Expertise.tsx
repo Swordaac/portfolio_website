@@ -95,9 +95,10 @@ function Expertise() {
           <div className="skill">
             <FontAwesomeIcon icon={faPython} size="3x" />
             <h3>GenAI & LLM</h3>
+
             <p>
               Stay relevant in the market by leveraging the latest AI models in
-              my projects. I have built transformer-based models and am actively
+              my projects. I have built transformer-based models and I am actively
               exploring how to leverage GenAI to tackle real-world challenges,
               such as reducing workload and burnout among doctors.
             </p>
