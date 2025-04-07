@@ -1,5 +1,5 @@
 import React from "react";
-import mock01 from '../assets/images/mock01.png';
+import mocknew1 from '../assets/images/mocknew1.png';
 import mock02 from '../assets/images/mock02.png';
 import mock03 from '../assets/images/mock03.png';
 import mock04 from '../assets/images/mock04.png';
@@ -17,9 +17,9 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="https://dislmcgill.github.io/pandas-query-generator/" target="_blank" rel="noreferrer"><img src={mocknew1} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://dislmcgill.github.io/pandas-query-generator/" target="_blank" rel="noreferrer"><h2>Synthetic Pandas Query Generator 🐼</h2></a>
+                <p>Led a development team to design and implement a synthetic query generator tool, automating data generation processes and achieving an 80\% increase in efficiency by using Python and Pandas</p>
             </div>
             <div className="project">
                 <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -62,7 +62,7 @@ function Project() {
                 <p>Created an interactive CSV table generator with Java, Handlebars, and LESS. This project helps transfer students to quickly identify eligible credits.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><img src={mocknew1} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><h2>Submeowrine</h2></a>
                 <p>Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.</p>
             </div>
