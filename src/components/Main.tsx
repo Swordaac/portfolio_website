@@ -33,14 +33,14 @@ function Main() {
 
           <div className="mobile_social_icons">
             <a
-              href="https://github.com/yujisatojr"
+              href="https://github.com/Swordaac"
               target="_blank"
               rel="noreferrer"
             >
               <GitHubIcon />
             </a>
             <a
-              href="https://www.linkedin.com/in/yujisato/"
+              href="https://www.linkedin.com/in/eugene-huo-9a3578212/"
               target="_blank"
               rel="noreferrer"
             >
